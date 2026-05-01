@@ -27,6 +27,7 @@ https://github.com/Rajitha10082002/HR-Analytics-Dashboard/blob/main/hr-data.xlsx
 
 ## Dashboard
 
+https://github.com/Rajitha10082002/HR-Analytics-Dashboard/blob/main/HR%20ANALYTICS%20DASHBOARD%20(1).pbit
 
 ## Author
 
