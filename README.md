@@ -4,7 +4,9 @@
 
 This project is an HR Analytics Dashboard created using Power BI.
 
+## Dataset
 
+https://github.com/Rajitha10082002/HR-Analytics-Dashboard/blob/main/hr-data.xlsx
 
 ## Features
 
@@ -23,7 +25,7 @@ This project is an HR Analytics Dashboard created using Power BI.
 * Excel / CSV
 * Data Visualization
 
-
+## Dashboard
 
 
 ## Author
